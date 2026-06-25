@@ -27,7 +27,7 @@ Users
 Menu
 Food
 
-6. Features & Highlights
+5. Features & Highlights
 Interactive Dashboard with slicers and filters
 Sales Analysis by:
 Year
@@ -52,11 +52,11 @@ Total Orders
 Total Ratings
 Active Customers
 Year-over-Year Comparison
-
 Current Year Sales
 Previous Year Sales
 Growth Analysis
-
-✅ Top N Analysis
-
+Top N Analysis
 Top 10 Restaurants/Food Items by Sales
+6. Screenshort / Demos
+Show what the dashboard look like.
+Exanple:https://github.com/kaifkhan-98/Zomato-dashboard/blob/main/Zomato%20bashboard%20Screenshot.png
